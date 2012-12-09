@@ -1,6 +1,7 @@
 # JSLogger 
 Simple solution to track client-side Javascript errors using StatsD & Graphite.
 
+![jslogger_graphite.png](http://www.tuxz.net/blog/images/jslogger_graphite.png)
 
 ## Usage
 See associated blog post : http://www.tuxz.net/blog/archives/2012/12/09/jslogger_-_track_client-side_errors_using_php_sta/
