@@ -1,0 +1,1 @@
+window.onerror=function(m,u,l){var a="https://your.host/jslog.php";var p="?d="+escape(m)+"&u="+escape(u)+"&l="+escape(l)+"&pu="+escape(document.location.href)+"&ua="+escape(navigator.userAgent);new Image().src=a+p};
